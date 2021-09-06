@@ -1,8 +1,7 @@
 function App() {
   return (
     <div>
-      <h1> DevWeb </h1> 
-      <h2>Qlq coisa</h2>                               
+      <h1> DevWeb SDS3 </h1>                             
     </div>
   );
 }
