@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1> DevWeb SDS3 </h1>                             
+      <h1 className ="text-primary"> DevWeb SDS3 </h1>                             
     </div>
   );
 }
