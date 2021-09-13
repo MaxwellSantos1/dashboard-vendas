@@ -6,7 +6,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 
 #  👨‍💻 Tecnologias utilizadas
 
-## FrontEnd
+## Front End
 
 
 - **HTML/CSS e JS** <img alt="HTML ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px"><img alt="CSS ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px"><img alt="JS ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px">
@@ -18,7 +18,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 
 
 
-## BackEnd
+## Back End
 
 - **Java** <img alt="Java ico" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="25px">
 - **Spring Boot** <img alt="SB ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="20px">
@@ -30,7 +30,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 
 ##  ⚙️ Para executar o projeto:
 
-# FrontEnd
+# Front End
 
 ```bash
 # clonar repositório
@@ -43,7 +43,7 @@ yarn install
 yarn start
 ```
 
-#  BackEnd
+#  Back End
 
 ```bash
 # clonar repositório
