@@ -47,7 +47,7 @@ yarn start
 
 ```bash
 # clonar repositório
-git clone https://github.com/WemersonDamasceno/projeto-sds3
+git clone https://github.com/MaxwellSantos1/projeto-sds3
 # entrar na pasta do projeto backend 
 cd backend
 # executar o projeto
