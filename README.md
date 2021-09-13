@@ -28,7 +28,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **Hibernate** <img alt="Hibernate ico" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png" width="20px">
 
 
-##  Para executar o projeto:
+##  ⚙️ Para executar o projeto:
 
 # Front end
 
