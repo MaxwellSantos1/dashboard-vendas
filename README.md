@@ -9,7 +9,6 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 ## Front End
 
 
-- **HTML/CSS e JS** <img alt="HTML ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px"><img alt="CSS ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px"><img alt="JS ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px">
 - **React** <img alt="React ico" style="display: inline-block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20px">
 - **TypeScript** <img alt="TypeScript ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20px">
 - **Apex Charts** <img alt="Apex Charts ico" src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="20px">
@@ -28,9 +27,9 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **PostgreSQL** <img alt="PosgreSQL ico" src="https://avatars.githubusercontent.com/u/1371956?s=200&v=4" width="20px">
 
 
-##  ⚙️ Para executar o projeto:
+#  ⚙️ Para executar o projeto:
 
-# Front End
+## Front End
 
 ```bash
 # clonar repositório
@@ -43,7 +42,7 @@ yarn install
 yarn start
 ```
 
-#  Back End
+##  Back End
 
 ```bash
 # clonar repositório
