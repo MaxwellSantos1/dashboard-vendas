@@ -14,7 +14,6 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **TypeScript** <img alt="TypeScript ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20px">
 - **Apex Charts** <img alt="Apex Charts ico" src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="20px">
 - **Bootstrap** <img alt="Bootstrap ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20px">
-- **PostgreSQL** <img alt="PosgreSQL ico" src="https://avatars.githubusercontent.com/u/1371956?s=200&v=4" width="20px">
 
 
 
@@ -26,6 +25,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **Maven** <img alt="Maven ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" width="20px">
 - **JPA** <img alt="Maven ico" src="https://www.file-extension.info/images/resource/formats/jpa.png" width="20px">
 - **Hibernate** <img alt="Hibernate ico" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png" width="20px">
+- **PostgreSQL** <img alt="PosgreSQL ico" src="https://avatars.githubusercontent.com/u/1371956?s=200&v=4" width="20px">
 
 
 ##  ⚙️ Para executar o projeto:
