@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido durante a *Semana de Spring Boot* (SDS), organizado pela empresa [DevSuperior](https://devsuperior.com)
+Este projeto foi desenvolvido durante a *Semana de Spring Boot* (SDS), organizado pela empresa [DevSuperior](https://devsuperior.com.br)
 
 A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas feitas ao longo de um mês, demonstradas através de gráficos e tabelas.
 
