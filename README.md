@@ -13,7 +13,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **React** <img alt="React ico" style="display: inline-block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20px">
 - **TypeScript** <img alt="TypeScript ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20px">
 - **Apex Charts** <img alt="Apex Charts ico" src="https://apexcharts.com/wp-content/themes/apexcharts/img/apexcharts-logo-white-trimmed.svg" width="20px">
-- **Bootstrap** <img alt="Bootstrap ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20px">
+- **BootStrap** <img alt="Bootstrap ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20px">
 
 
 
