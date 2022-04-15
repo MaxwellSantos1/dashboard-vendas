@@ -22,8 +22,7 @@ A aplicação consiste em um dashboard de vendas, contendo um resumo das vendas 
 - **Java** <img alt="Java ico" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="25px">
 - **Spring Boot** <img alt="SB ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="20px">
 - **Maven** <img alt="Maven ico" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" width="20px">
-- **JPA** <img alt="Maven ico" src="https://www.file-extension.info/images/resource/formats/jpa.png" width="20px">
-- **Hibernate** <img alt="Hibernate ico" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png" width="20px">
+- **JPA/Hibernate** <img alt="Hibernate ico" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png" width="20px">
 - **PostgreSQL** <img alt="PosgreSQL ico" src="https://avatars.githubusercontent.com/u/1371956?s=200&v=4" width="20px">
 
 
